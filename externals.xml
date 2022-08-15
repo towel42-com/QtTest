@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk">
+        <property
+           name="svn:externals">
+/externals/verific/BluePearl_source_Nov18/exports@2768 verific
+/externals/tcl/tcl8.5.9/tcl.brlcad@2705 tcl/src
+/externals/tcl/tcl8.5.9.export/linux.i686/lib/tcl8.5@2681 tcl/Install
+/externals/tcl/tcllib.export@2681 tcllib
+/externals/google/googletest-release-1.8.0/googletest@1557 googletest
+/externals/google/googletest-release-1.8.0/googlemock@1557 googlemock
+/externals/QtSolutions/qtiocompressor-2.3_1-opensource@2539 qtiocompressor
+/externals/InstallExternals@762 InstallExternals
+/svn/Licensing.src/export@49769 Licensing
+/externals/ExceptionHandler@2701 ExceptionHandler
+/externals/astyle/3.1.BPS@2671 AStyle
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/CoreApp">
+        <property
+           name="svn:externals">
+/externals/liberty@2537 liberty
+
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/CoreApp/z3Interface">
+        <property
+           name="svn:externals">
+/externals/microsoft/z3-master/03282017@2543 z3
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/Installation">
+        <property
+           name="svn:externals">
+/externals/builds/FPGALibProject/2765/export@2767 FPGALibraries
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/LicensingWizard">
+        <property
+           name="svn:externals">
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/UI">
+        <property
+           name="svn:externals">
+/externals/nlview/6.4.19/nlview.stripped@762 nlview
+/externals/QtSolutions/qtcharts_5.6@2541 qtcharts
+/externals/QScintilla/QScintilla_commercial-2.10.3@2672 QScintilla
+
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/UI/QtGraphVizApp">
+        <property
+           name="svn:externals">
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/UI/QtGraphVizLib">
+        <property
+           name="svn:externals">
+/externals/graphviz/libcgraphviz-master@2716 libcgraphviz
+        </property>
+    </target>
+    <target
+       path="D:/Visual Studio/Projects/bps/trunk/UI/ScintillaEditor">
+        <property
+name="svn:externals">
+        </property>
+    </target>
+</properties>
